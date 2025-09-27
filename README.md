@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá👋 Me chamo João Pedro Aguiar 
+<p align="left">
+    <a href ="https://www.linkedin.com/in/pedro-aguiar-726ab0378/"
+      src="<img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <!--
 **pedroaguiarcd/pedroaguiarcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
